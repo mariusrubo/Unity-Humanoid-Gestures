@@ -2,7 +2,7 @@
 
 These scripts allow you to make your character display the gestures 'scissors', 'stone' and 'paper', and to record and display your own gestures. 
 
-![alt tag](https://github.com/mariusrubo/Unity-Humanoid-Walk-To-Goal/blob/master/WalkTo.jpg)
+![alt tag](https://github.com/mariusrubo/Unity-Humanoid-Gestures/blob/master/Gestures.png)
 
 # Installation
 
