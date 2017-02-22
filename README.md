@@ -34,9 +34,9 @@ These scripts allow you to make your character display the gestures 'scissors', 
 
 # Known issues
 
-* When setting the left hand, the thumb does not exactly mirror the right hand (although the other fingers do). I have tried to adapt to this problem, but there seems to be no linear transformation of rotations that precisely corrects the left thumb in all gestures. I have contacted Autodesk for information on this problem and will correct it once I know how.
+* When setting the left hand, the thumb does not exactly mirror the right hand (although the other fingers do). I have tried to adapt to this problem, but there seems to be no linear transformation of rotations that precisely corrects the left thumb in all gestures. The difference is quite subtle, though.
 
-* The script cannot return to "Gesture0.csv" once one of the other four gestures was chosen. This does not constitue a problem if you just keep a gesture in "Gesture0.csv" which you do not need (as it is done in the example files), but the problem remains somewhat strange. 
+* The script cannot return to "Gesture0.csv" once one of the other four gestures was chosen. This does not constitue a problem if you just keep a gesture in "Gesture0.csv" which you do not need (as it is done in the example files), but the problem remains somewhat strange to me.
 
 # Extend
 * For more complex actions (e.g. swinging arms before displaying one of the gestures), this script can be combined with any animation, as it overrides the hands' bone positions.
