@@ -39,7 +39,7 @@ These scripts allow you to make your character display the gestures 'scissors', 
 * The script cannot return to "Gesture0.csv" once one of the other four gestures was chosen. This does not constitue a problem if you just keep a gesture in "Gesture0.csv" which you do not need (as it is done in the example files), but the problem remains somewhat strange to me.
 
 # Extend
-* For more complex actions (e.g. swinging arms before displaying one of the gestures), this script can be combined with any animation, as it overrides the hands' bone positions.
+* For more complex actions (e.g. swinging arms before displaying one of the gestures), this script can be combined with any animation, as it overrides the hand bones' rotations.
 * If the hands are supposed to precisely touch objects (e.g. grabbing a cup), I recommend looking into Final IK's interaction system instead.
 
 # License
