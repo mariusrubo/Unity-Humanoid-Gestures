@@ -1,6 +1,6 @@
 # Purpose
 
-These scripts allow you to make your character display the gestures 'scissors', 'stone', 'paper' and 'neutral', and to record and display your own gestures. 
+These scripts allow you to make your character display the gestures 'scissors', 'stone', 'paper' and 'neutral', and to record and display your own gestures. The scripts allow for a smooth transition between any two gestures, making this approach more flexible than the use of animations.
 
 ![alt tag](https://github.com/mariusrubo/Unity-Humanoid-Gestures/blob/master/Gestures.png)
 
