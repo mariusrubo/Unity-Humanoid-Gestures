@@ -6,7 +6,7 @@ These scripts allow you to make your character display the gestures 'scissors', 
 
 # Installation
 
-* The scripts are designed for characters made with Autodesk Character Generator. For other characters, adaptations may be needed.
+* The scripts are designed for characters made with Autodesk Character Generator. For other characters (containing more or less hand bones), adaptations may be needed.
 
 * Attach the script "Gestures.cs" to your character. Drag both hands' transforms to the according places in the inspector's view on the script. 
 
