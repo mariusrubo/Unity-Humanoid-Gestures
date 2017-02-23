@@ -12,7 +12,7 @@ These scripts allow you to make your character display the gestures 'scissors', 
 
 * Attach the script "GesturesInterface.cs" to any object in the scene (possibly, but not necessarily the character). Drag your character's transform to the corresponding place in the inspector's view on the script. 
 
-* Create a folder "...Assets/Gestures" in your project and copy all the files "Gesture0.csv" etc. here.
+* Create a folder ".../Assets/Gestures" in your project and copy all the files "Gesture0.csv" to "Gesture4.csv" here.
 
 * Press play, click on GUI buttons in the game view.
 
